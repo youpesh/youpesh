@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hi there! I'm Yousuf
 
-<!--
-**youpesh/youpesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **software developer** passionate about building amazing applications with **C#** and **JavaScript**. I love working on creative projects that push the boundaries of what software can do!
 
-Here are some ideas to get you started:
+🔧 What I Do:
+- **Backend development** with `C#`, `.NET Core`, and `ASP.NET`
+- **Frontend development** with `React`, `JavaScript`, and `TypeScript`
+- **Database management** with `SQL Server`, `MongoDB`
+- **Cloud technologies** using `Azure` and `Docker`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects I'm Proud Of:
+- **Job Listings Web App**: Full-stack app built with `ASP.NET Core` and `Entity Framework` to help users find job opportunities!  
+- **Real-Time Chat App**: Built using `Node.js`, `Socket.io`, and `React` to connect people instantly!  
+- **Inventory Management System**: A desktop app for businesses to track their inventory using `C#` and `SQL Server`.
+
+🌱 Currently Learning:
+- Advanced cloud architecture with **Azure**
+- Optimizing API performance with **GraphQL**
+
+💬 Let's Connect:
+- Open to **collaborations** on cool projects!
+- Reach me at [youssefbukhari4@gmail.com](mailto:youssefbukhari4@gmail.com) or on [LinkedIn](your-linkedin-profile).
