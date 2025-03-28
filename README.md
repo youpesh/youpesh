@@ -8,11 +8,6 @@ I'm a **software developer** passionate about building amazing applications with
 - **Database management** with `SQL Server`, `MongoDB`
 - **Cloud technologies** using `Azure` and `Docker`
 
-🚀 Projects I'm Proud Of:
-- **Job Listings Web App**: Full-stack app built with `ASP.NET Core` and `Entity Framework` to help users find job opportunities!  
-- **Real-Time Chat App**: Built using `Node.js`, `Socket.io`, and `React` to connect people instantly!  
-- **Inventory Management System**: A desktop app for businesses to track their inventory using `C#` and `SQL Server`.
-
 🌱 Currently Learning:
 - Advanced cloud architecture with **Azure**
 - Optimizing API performance with **GraphQL**
