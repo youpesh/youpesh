@@ -1,17 +1,35 @@
-👋 Hi there! I'm Yousuf
+# 🚀 AI Engineer | LLMs • RAG • Agents
 
-I'm a **software developer** passionate about building amazing applications with **C#** and **JavaScript**. I love working on creative projects that push the boundaries of what software can do!
+Hey! I'm **Yousuf**, an AI-focused software engineer building intelligent apps with  
+**Python, TypeScript, LLMs, vector search, and cloud-native systems**.
 
-🔧 What I Do:
-- **Backend development** with `C#`, `.NET Core`, and `ASP.NET`
-- **Frontend development** with `React`, `JavaScript`, and `TypeScript`
-- **Database management** with `SQL Server`, `MongoDB`
-- **Cloud technologies** using `Azure` and `Docker`
+---
 
-🌱 Currently Learning:
-- Advanced cloud architecture with **Azure**
-- Optimizing API performance with **GraphQL**
+## 🔥 What I Build
+- 🤖 AI Agents with tool use & memory  
+- 📚 RAG pipelines for accurate retrieval  
+- 📱 Full-stack AI apps (React Native + Python)  
+- ☁️ AWS-backed systems with CI/CD  
+- ⚡ Automation tools & AI workflows  
 
-💬 Let's Connect:
-- Open to **collaborations** on cool projects!
-- Reach me at [youssefbukhari4@gmail.com](mailto:youssefbukhari4@gmail.com) or on [LinkedIn](your-linkedin-profile).
+---
+
+## 🛠️ Tech Stack
+**Languages:** Python, TypeScript  
+**AI:** OpenAI, Google Gemini, RAG, Embeddings, Vector DBs  
+**Backend:** FastAPI, Node.js  
+**Frontend:** React Native  
+**Cloud:** AWS (Lambda, S3, CloudFront), Docker  
+**Tools:** Git, CI/CD, Jest/PyTest  
+
+---
+
+## ⭐ Featured Work
+- **AI Mailing Assistant** – LLM-driven email replies + AWS deployment  
+- **RAG Search Engine** – embeddings, chunking, vector search  
+- **AI Automation Scripts** – multi-step task planning with agents  
+
+---
+
+## 📬 Reach Out
+Open to collaboration, learning, and building cool AI stuff.
